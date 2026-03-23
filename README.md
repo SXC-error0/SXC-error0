@@ -1,12 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=SXC-error0&fontSize=70&fontColor=ffffff&desc=Embedded%20Systems%20%E2%80%A2%20AI%20%E2%80%A2%20IoT&descAlignY=76&descAlign=50" width="100%" />
 
-  <a href="mailto:shixinchao_error0@163.com">
-    <img src="https://img.shields.io/badge/Email-shixinchao__error0%40163.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SXC-error0&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <p align="center">
+    <!-- 请替换为你自己的社交主页链接 -->
+    <a href="mailto:shixinchao_error0@163.com">
+      <img src="https://img.shields.io/badge/Email-shixinchao__error0%40163.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://blog.csdn.net/">
+      <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" />
+    </a>
+    <a href="https://www.zhihu.com/">
+      <img src="https://img.shields.io/badge/Zhihu-Profile-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <!-- 访客记录器 -->
+    <img src="https://komarev.com/ghpvc/?username=SXC-error0&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-  <br><br>
+  <br>
   <!-- GitHub 奖杯展示 -->
   <img src="https://github-profile-trophy.vercel.app/?username=SXC-error0&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
@@ -15,15 +28,24 @@
 
 ### 🚀 About Me & Focus
 
-Greetings! I'm an engineer passionate about bridging the gap between embedded hardware and modern artificial intelligence.
+<table align="center" style="border: none;">
+  <tr>
+    <td width="60%">
+      <p>Greetings! I'm an engineer passionate about bridging the gap between embedded hardware and modern artificial intelligence.</p>
+      - 🌐 Integrating <b>LLMs</b> into <b>embedded systems</b><br>
+      - 🧠 Building <b>RAG-based</b> intelligent pipelines<br>
+      - ⚡ Exploring <b>AI + IoT + Edge computing</b><br>
+      - 🏗️ Designing data-driven <b>real-time architectures</b><br>
+      - 🌱 Currently learning: <b>ROS2</b> and <b>TinyML</b><br>
+      - 🎯 <b>Mindset</b>: System Architecture > Just Coding<br>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Hello GIF" />
+    </td>
+  </tr>
+</table>
 
-- 🌐 Integrating **LLMs** into **embedded systems**
-- 🧠 Building **RAG-based** intelligent pipelines
-- ⚡ Exploring **AI + IoT + Edge computing**
-- 🏗️ Designing data-driven **real-time architectures**
-- 🎯 **Mindset**: System Architecture > Just Coding
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
@@ -36,7 +58,7 @@ Greetings! I'm an engineer passionate about bridging the gap between embedded ha
       <br>
       <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br><br>
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker" /><br><br>
-      <img src="https://skillicons.dev/icons?i=bash,qt" /><br>
+      <img src="https://skillicons.dev/icons?i=bash,qt,git" /><br>
       <br>
     </td>
     <td align="center">
@@ -85,7 +107,9 @@ Greetings! I'm an engineer passionate about bridging the gap between embedded ha
   </picture>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <i>" Build systems, not demos. Connect hardware with intelligence. "</i>
+  <!-- 每日编程毒鸡汤 / 名言 (自带透明主题) -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote_color=0ea5e9&author_color=333333" alt="Quote of the Day" />
 </div>
