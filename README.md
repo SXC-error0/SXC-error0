@@ -1,10 +1,13 @@
 <div align="center">
 
-  <!-- 浅色顶栏：圆角卡片 + 石板灰描边 -->
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=f8fafc&height=148&section=header&text=SXC-error0&fontSize=46&fontColor=0f172a&desc=%E5%B5%8C%E5%85%A5%E5%BC%8F%20%C2%B7%20AI%20%C2%B7%20IoT&descSize=16&descAlignY=73&fontAlign=50&stroke=e2e8f0&strokeWidth=2" width="100%" alt="SXC-error0" />
 
   <p>
     <a href="mailto:shixinchao_error0@163.com"><img src="https://img.shields.io/badge/Email-shixinchao__error0%40163.com-64748b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
+    <a href="https://github.com/SXC-error0"><img src="https://img.shields.io/badge/GitHub-SXC--error0-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    &nbsp;
+    <a href="https://github.com/SXC-error0?tab=repositories"><img src="https://img.shields.io/badge/Repositories-%E4%BB%93%E5%BA%93-64748b?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=SXC-error0&label=Profile%20views&color=94a3b8&style=flat-square" alt="Profile views" />
   </p>
@@ -22,6 +25,16 @@
 - RAG 与智能流水线  
 - AI + IoT + 边缘计算  
 - 实时与可观测架构  
+
+常驻 **UTC+8**，欢迎 **Issue / PR / 邮件** 异步协作。
+
+<br/>
+
+## 当前关注
+
+| 正在深入 | 常用栈 | 近期目标 |
+| :-- | :-- | :-- |
+| ROS2、TinyML、端侧推理 | C/C++、Python、Linux、Docker | 更系统的边缘 AI 与实时链路 |
 
 <br/>
 
@@ -54,7 +67,12 @@
 
 <br/>
 
-## 编码统计
+## 数据概览
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SXC-error0&show_icons=true&theme=graywhite&hide_border=true&title_color=334155&icon_color=475569&text_color=475569&bg_color=ffffff&include_all_commits=true" width="49%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=SXC-error0&theme=graywhite&hide_border=true" width="49%" alt="GitHub streak" />
+</p>
 
 <p align="center">
   <!-- WakaTime 需在个人设置中将 Stats 设为 Public，此处才会显示数据 -->
@@ -101,3 +119,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote_color=475569&author_color=64748b" alt="Quote" />
 </div>
+
+<br/>
+
+<div align="center"><sub>小提示：在 GitHub 个人主页可 <strong>置顶仓库（Pinned）</strong>，比长 README 更能一眼看到代表作。</sub></div>
