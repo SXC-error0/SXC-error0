@@ -1,113 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=SXC-error0&fontSize=70&fontColor=ffffff&desc=Embedded%20Systems%20%E2%80%A2%20AI%20%E2%80%A2%20IoT&descAlignY=76&descAlign=50" width="100%" />
 
-  <p align="center">
-    <a href="mailto:shixinchao_error0@163.com">
-      <img src="https://img.shields.io/badge/Email-shixinchao__error0%40163.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  <!-- 浅色顶栏：圆角卡片 + 石板灰描边 -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=f8fafc&height=148&section=header&text=SXC-error0&fontSize=46&fontColor=0f172a&desc=%E5%B5%8C%E5%85%A5%E5%BC%8F%20%C2%B7%20AI%20%C2%B7%20IoT&descSize=16&descAlignY=73&fontAlign=50&stroke=e2e8f0&strokeWidth=2" width="100%" alt="SXC-error0" />
+
+  <p>
+    <a href="mailto:shixinchao_error0@163.com"><img src="https://img.shields.io/badge/Email-shixinchao__error0%40163.com-64748b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=SXC-error0&label=Profile%20views&color=94a3b8&style=flat-square" alt="Profile views" />
   </p>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SXC-error0&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  </p>
+
 </div>
 
----
+<br/>
 
-### 🚀 About Me & Focus
+## 关于
 
-<table align="center" style="border: none;">
+专注 **嵌入式硬件** 与 **现代 AI** 的衔接：把 LLM / RAG 能力落到边缘与实时系统里，搭建数据驱动的低延迟架构。当前延伸学习 **ROS2**、**TinyML**。  
+*Mindset: system architecture over code-only.*
+
+- LLM 与嵌入式系统集成  
+- RAG 与智能流水线  
+- AI + IoT + 边缘计算  
+- 实时与可观测架构  
+
+<br/>
+
+## 技术栈
+
+<table align="center" width="100%">
   <tr>
-    <td width="60%">
-      <p>Greetings! I'm an engineer passionate about bridging the gap between embedded hardware and modern artificial intelligence.</p>
-      - 🌐 Integrating <b>LLMs</b> into <b>embedded systems</b><br>
-      - 🧠 Building <b>RAG-based</b> intelligent pipelines<br>
-      - ⚡ Exploring <b>AI + IoT + Edge computing</b><br>
-      - 🏗️ Designing data-driven <b>real-time architectures</b><br>
-      - 🌱 Currently learning: <b>ROS2</b> and <b>TinyML</b><br>
-      - 🎯 <b>Mindset</b>: System Architecture > Just Coding<br>
+    <td width="34%" align="center"><strong>语言与平台</strong></td>
+    <td width="33%" align="center"><strong>AI 与数据</strong></td>
+    <td width="33%" align="center"><strong>硬件与网络</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Languages" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker" alt="OS" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=bash,qt,git" alt="Tools" />
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Hello GIF" />
+    <td align="center" valign="top"><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ML" /><br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-475569?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /><br/><br/>
+      <img src="https://img.shields.io/badge/LLM%20%2F%20RAG-64748b?style=flat-square" alt="LLM RAG" />
+    </td>
+    <td align="center" valign="top"><br/>
+      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Boards" /><br/><br/>
+      <img src="https://img.shields.io/badge/STM32%20%2F%20ESP32-334155?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="MCU" /><br/><br/>
+      <img src="https://img.shields.io/badge/MQTT%20%C2%B7%20TCP%2FIP%20%C2%B7%20UDP-64748b?style=flat-square" alt="Protocols" />
     </td>
   </tr>
 </table>
 
-### 🛠️ Tech Stack & Tools
+<br/>
 
-<table>
-  <tr>
-    <td width="33%" align="center"><b>Languages & OS</b></td>
-    <td width="33%" align="center"><b>AI & Data</b></td>
-    <td width="33%" align="center"><b>Hardware & Networks</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker" /><br><br>
-      <img src="https://skillicons.dev/icons?i=bash,qt,git" /><br>
-      <br>
-    </td>
-    <td align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/LLM_|_RAG-0ea5e9?style=for-the-badge" /><br>
-      <br>
-    </td>
-    <td align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" /><br><br>
-      <img src="https://img.shields.io/badge/STM32_|_ESP32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/MQTT_|_TCP--IP_|_UDP-0ea5e9?style=for-the-badge" /><br>
-      <br>
-    </td>
-  </tr>
-</table>
-
-### ⏱️ Code Activity & Time Tracking
+## 编码统计
 
 <p align="center">
-  <!-- 注意：必须在 WakaTime 中把你的 Stats 设置为 Public，这段代码才能抓取到真实数据！ -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SXC-error0&layout=compact&theme=default&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=333333&custom_title=Weekly%20Coding%20Time" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXC-error0&layout=compact&theme=default&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=333333" width="48%" />
+  <!-- WakaTime 需在个人设置中将 Stats 设为 Public，此处才会显示数据 -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SXC-error0&layout=compact&theme=graywhite&hide_border=true&title_color=334155&icon_color=475569&text_color=475569&bg_color=ffffff&custom_title=Weekly%20Coding%20Time" width="49%" alt="WakaTime" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXC-error0&layout=compact&theme=graywhite&hide_border=true&title_color=334155&icon_color=475569&text_color=475569&bg_color=ffffff" width="49%" alt="Top languages" />
 </p>
 
-### 🌍 Visitors Matrix
+<br/>
+
+## 访客足迹
 
 <div align="center">
-  <!-- 这是一个公用的演示地图，如果有访客，相应的国家图鉴就会被点亮。如果要换成独属于你的计数器，去 flagcounter.com 免费生成一个链接替换掉就可以 -->
   <a href="https://info.flagcounter.com/hTYG">
-    <img src="https://s11.flagcounter.com/count2/hTYG/bg_FFFFFF/txt_333333/border_FFFFFF/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+    <img src="https://s11.flagcounter.com/count2/hTYG/bg_FFFFFF/txt_475569/border_E2E8F0/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag counter" />
   </a>
 </div>
 
-### 🐍 Code Contributions
+<br/>
+
+## 贡献可视化
 
 <div align="center">
+  <sub>Contribution snake</sub><br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SXC-error0/SXC-error0/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SXC-error0/SXC-error0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SXC-error0/SXC-error0/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SXC-error0/SXC-error0/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
-### 🌆 3D Contribution City
+<br/>
 
 <div align="center">
-  <!-- 注意：这需要跑 yoshi389111/github-profile-3d-contrib 这个 Action 才能生成图片！在图片出来前它会显示破损 -->
+  <sub>3D contribution</sub><br/><br/>
   <picture>
-    <!-- 暗色模式显示带有夜景灯光的 3D 城市图 -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SXC-error0/SXC-error0/main/profile-3d-contrib/profile-night-view.svg">
-    <!-- 亮色模式显示白天的 3D 绿色透明城市图 -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SXC-error0/SXC-error0/main/profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D Profile Contributions" src="https://raw.githubusercontent.com/SXC-error0/SXC-error0/main/profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D GitHub contributions" src="https://raw.githubusercontent.com/SXC-error0/SXC-error0/main/profile-3d-contrib/profile-gitblock.svg" width="100%" />
   </picture>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote_color=0ea5e9&author_color=333333" alt="Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote_color=475569&author_color=64748b" alt="Quote" />
 </div>
